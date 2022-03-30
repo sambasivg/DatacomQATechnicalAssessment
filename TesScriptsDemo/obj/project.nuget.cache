@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "3xuz0k2QxSWqIADrb9/tQf61MjRYYNH4OKAEqAHCj79/zTHslOscfOn2t1sgemE+Y+Fja3Z7Zg0ASWgVLYhLjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sneha\\source\\repos\\TesScriptsDemo\\TesScriptsDemo\\TesScriptsDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sneha\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\3.12.0\\dotnetseleniumextras.pageobjects.core.3.12.0.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\envdte80\\17.1.32210.191\\envdte80.17.1.32210.191.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\fluentassertions\\6.0.0\\fluentassertions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\microsoft.extensions.configuration\\2.2.0\\microsoft.extensions.configuration.2.2.0.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.2.0\\microsoft.extensions.configuration.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\microsoft.net.test.sdk\\16.11.0\\microsoft.net.test.sdk.16.11.0.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\microsoft.visualstudio.interop\\17.1.32210.191\\microsoft.visualstudio.interop.17.1.32210.191.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\mstest.testadapter\\2.2.7\\mstest.testadapter.2.2.7.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\mstest.testframework\\2.2.7\\mstest.testframework.2.2.7.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\selenium.support\\3.14.0\\selenium.support.3.14.0.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\selenium.webdriver.chromedriver\\98.0.4758.10200\\selenium.webdriver.chromedriver.98.0.4758.10200.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\selenium.webdriver.msedgedriver\\99.0.1150.46\\selenium.webdriver.msedgedriver.99.0.1150.46.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\sneha\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.0\\system.threading.tasks.extensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

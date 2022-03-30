@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Rows>
+	<Row>
+		<TestCaseId>ADDNEWPAYEE</TestCaseId>
+		<PAYEENAME>Demo04</PAYEENAME>
+		<Bank>02</Bank>
+		<Branch>14325</Branch>
+		<AccntNum>250432</AccntNum>
+		<Suffix>01</Suffix>
+	</Row>
+	
+</Rows>
